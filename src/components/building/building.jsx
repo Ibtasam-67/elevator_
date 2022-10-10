@@ -1,3 +1,4 @@
+import React from "react";
 import Floor from "../floor/floor";
 
 const Building = (props) => {
